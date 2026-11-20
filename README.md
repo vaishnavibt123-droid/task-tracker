@@ -3,6 +3,7 @@
 A full-stack task tracker built with the MERN stack as a portfolio project. Each user signs up, logs in and manages their own tasks on a To do / Doing / Done board.
 
 **Live demo:** https://task-tracker-tan-kappa.vercel.app
+
 **API health check:** https://task-tracker-api-1viw.onrender.com/api/health
 
 > **Demo project.** Sign up with any email, for example `demo@example.com`. No verification email is sent and nothing real is stored. Please don't enter personal data.
